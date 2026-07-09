@@ -35,6 +35,7 @@ def grade_calculator():
     
     print(f"Grade: {grade}")
 
+
 grade_calculator()
 
 
