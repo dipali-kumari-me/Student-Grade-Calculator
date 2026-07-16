@@ -33,6 +33,7 @@ def grade_calculator():
     else:
         grade = "F - Fail"
     
+   
     print(f"Grade: {grade}")
 
 
